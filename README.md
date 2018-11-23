@@ -1,2 +1,2 @@
-# Image-Processing-Snippets
-Some Matlab code playing with image processing techniques
+# Image & Video Processing
+Fall '18 @ KTH SAP
